@@ -9,4 +9,4 @@ Kelas : TI.E1
 
 Mata Kuliah : Kriptografi
 
-![](img/1%xorencrypt.png)
+![](img/1%20xorencrypt.png)
